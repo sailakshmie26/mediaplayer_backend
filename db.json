@@ -1,0 +1,94 @@
+{
+  "videos": [
+    {
+      "caption": "Night Changes | One Direction",
+      "imageUrl": "https://th.bing.com/th/id/OIP.E6KQUvkDzG8uUgdeB-BmCQAAAA?w=302&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "youtubeLink": "https://www.youtube.com/embed/syFZfO_wfMQ",
+      "id": 1
+    },
+    {
+      "caption": "Dusk Till Dawn | Zayn Malik",
+      "imageUrl": "https://th.bing.com/th/id/OIP.gLcyLP_5QjK8pouriKmKqgAAAA?rs=1&pid=ImgDetMain",
+      "youtubeLink": "https://www.youtube.com/embed/tt2k8PGm-TI",
+      "id": 2
+    },
+    {
+      "caption": "Demons | Imagine Dragons",
+      "imageUrl": "https://th.bing.com/th/id/OIP.LAFjTOl8eeo3Cja8PecVSAAAAA?rs=1&pid=ImgDetMain",
+      "youtubeLink": "https://www.youtube.com/embed/mWRsgZuwf_8",
+      "id": 3
+    },
+    {
+      "caption": "Steal My Girl | One Direction",
+      "imageUrl": "https://th.bing.com/th/id/OIP.ZnHf-QjVKnC4JTG79bh1TwHaGe?rs=1&pid=ImgDetMain",
+      "youtubeLink": "https://www.youtube.com/embed/UpsKGvPjAgw",
+      "id": 4
+    },
+    {
+      "caption": "Lover | Taylor Swift",
+      "imageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/465dfe45-db24-4488-be3e-0c1e48aea9bc/ddd2lw1-7f2e519b-a6d8-4305-affe-8bb6bcf36d8d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ2NWRmZTQ1LWRiMjQtNDQ4OC1iZTNlLTBjMWU0OGFlYTliY1wvZGRkMmx3MS03ZjJlNTE5Yi1hNmQ4LTQzMDUtYWZmZS04YmI2YmNmMzZkOGQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.x0yNbzTBSMaZ5MFg5_qdYYhnESu7HU_MqWuYwrD4r1U",
+      "youtubeLink": "https://www.youtube.com/embed/-BjZmE2gtdo",
+      "id": 5
+    }
+  ],
+  "history": [
+    {
+      "url": "https://www.youtube.com/embed/syFZfO_wfMQ",
+      "caption": "Night Changes | One Direction",
+      "timestamp": "18/08/2024, 20:39:29",
+      "id": 1
+    },
+    {
+      "url": "https://www.youtube.com/embed/-BjZmE2gtdo",
+      "caption": "Lover | Taylor Swift",
+      "timestamp": "18/08/2024, 20:39:34",
+      "id": 2
+    },
+    {
+      "url": "https://www.youtube.com/embed/tt2k8PGm-TI",
+      "caption": "Dusk Till Dawn | Zayn Malik",
+      "timestamp": "18/08/2024, 23:35:03",
+      "id": 3
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "malayalam",
+      "allVideos": [
+        {
+          "caption": "Night Changes | One Direction",
+          "imageUrl": "https://th.bing.com/th/id/OIP.E6KQUvkDzG8uUgdeB-BmCQAAAA?w=302&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "youtubeLink": "https://www.youtube.com/embed/syFZfO_wfMQ",
+          "id": 1
+        },
+        {
+          "caption": "Night Changes | One Direction",
+          "imageUrl": "https://th.bing.com/th/id/OIP.E6KQUvkDzG8uUgdeB-BmCQAAAA?w=302&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+          "youtubeLink": "https://www.youtube.com/embed/syFZfO_wfMQ",
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Hindi",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "categoryName": "malayalam",
+      "allVideos": [],
+      "id": 3
+    },
+    {
+      "categoryName": "malayalam",
+      "allVideos": [],
+      "id": 4
+    },
+    {
+      "categoryName": "Telugu",
+      "allVideos": [],
+      "id": 5
+    }
+  ]
+}
